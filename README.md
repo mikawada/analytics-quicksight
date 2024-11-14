@@ -50,7 +50,8 @@ Note: I made sure to allow access to S3 and specified the S3 bucket I've created
 I then connected my dataset to QuickSight by selecting "New Dataset" and providing the S3 URL of my JSON file when prompted to upload a manifest file: </br>
 <img src="Screenshots/step%204.png" alt="Step 4" width="600"/> </br>
 
-Once connected, I was able to view all the variables within my dataset in the left pane so that I can start making visualizations.
+Once connected, I was able to view all the variables within my dataset in the left pane: </br>
+<img src="Screenshots/step%204_1.png" alt="Step 4" width="200"/> </br>
 
 ### Step 5: Create Dashboard
 XXX
