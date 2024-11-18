@@ -5,7 +5,8 @@
 </p>
 
 ## Description
-In this beginner-friendly project, I used S3 to store my CSV file and JSON file for data import and processing. Then, I used QuickSight to analyze the data and create a dashboard that provides a comprehensive overview of Netflix show trends.
+In this beginner-friendly project, I stored files in S3 and used QuickSight to analyze data and create a dashboard that provides a comprehensive overview of Netflix show trends.
+(_Guided project by NextWork_)
 
 ## Tools and Services Used
 - Amazon S3
