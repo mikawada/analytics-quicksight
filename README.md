@@ -13,7 +13,7 @@ In this beginner-friendly project, I stored files in S3 and used QuickSight to a
 - Amazon QuickSight
 
 ## Cost and Time
-- Cost: $0
+- Cost: $0 (eligible for free tier)
 - Time: 45-60 minutes
 
 ## Key Procedures
